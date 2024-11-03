@@ -1,6 +1,6 @@
 # Vertxfun
 
-image: [vert.x](link="https://vertx.io")
+image: [vert.x](https://vertx.io)
 
 This application was generated using http://start.vertx.io
 
