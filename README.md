@@ -1,27 +1,27 @@
-= Vertxfun
+# Vertxfun
 
 image:https://img.shields.io/badge/vert.x-4.5.10-purple.svg[link="https://vertx.io"]
 
 This application was generated using http://start.vertx.io
 
-== Building
+## Building
 
 To launch your tests:
-```
+```bash
 ./mvnw clean test
 ```
 
 To package your application:
-```
+```bash
 ./mvnw clean package
 ```
 
 To run your application:
-```
+```bash
 ./mvnw clean compile exec:java
 ```
 
-== Help
+## Help
 
 * https://vertx.io/docs/[Vert.x Documentation]
 * https://stackoverflow.com/questions/tagged/vert.x?sort=newest&pageSize=15[Vert.x Stack Overflow]
